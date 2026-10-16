@@ -1,0 +1,17 @@
+{
+  "name": "Voice Secure",
+  "short_name": "VoiceSecure",
+  "description": "Stop cloned-voice scam calls before the money moves.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071226",
+  "theme_color": "#071226",
+  "icons": [
+    {
+      "src": "/shield-voice.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
